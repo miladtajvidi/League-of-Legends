@@ -38,3 +38,6 @@ Incorporate a broader set of features, including detailed in-game events and cha
 Experiment with more complex models and real-time feedback mechanisms for strategy adaptation.
 Utilize community feedback and backtesting with historical data to refine model predictions and strategy recommendations.
 ## References
+
+* [Dataset](https://www.kaggle.com/datasets/chuckephron/leagueoflegends)
+* [League of Legends: An Exploratory Data Analysis](https://ucladatares.medium.com/league-of-legends-an-exploratory-data-analysis-11f6022f18be)
